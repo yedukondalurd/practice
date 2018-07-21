@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/yedukondalurd/practice/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/yedukondalurd/practice#readme"
+=======
+  "homepage": "https://github.com/yedukondalurd/practice#readme",
+  "devDependencies": {
+    "webpack": "^4.16.1"
+  }
+>>>>>>> 8fe524da32a9bcb698bede95aabf6993809fe102
 }
